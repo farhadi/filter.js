@@ -1,0 +1,19 @@
+{
+  "name": "filter.js",
+  "version": "0.1.0",
+  "description": "An approach to aspect-oriented programming (AOP) in javascript",
+  "main": "filter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/farhadi/filter.js.git"
+  },
+  "keywords": [
+    "AOP",
+    "filter"
+  ],
+  "author": "Ali Farhadi",
+  "license": "MIT"
+}
